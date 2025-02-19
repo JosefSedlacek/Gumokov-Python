@@ -1,4 +1,4 @@
-# Gumokov-Python-Projects
+# Gumokov-Python
 Tento repository slouží jako úložiště python kódu, který používám v Gumokovu a.s.
 ---
 ### Workhours aplikace
